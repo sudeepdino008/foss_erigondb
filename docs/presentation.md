@@ -5,6 +5,7 @@ title: Database in Blockchains ft. ErigonDB
 style: |
   section { font-size: 22px; }
   section.big { font-size: 28px; }
+  section.lead img { display: block; margin: 0 auto; }
 ---
 
 
@@ -426,3 +427,5 @@ _class: big
 <!-- _footer: created using marp - the markdown presentation app -->
 
 # THE END
+<br><br>
+<img src="sudeep.kumar.png" height="300" width="300">
